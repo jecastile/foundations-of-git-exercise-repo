@@ -1,4 +1,5 @@
 # Foundation of Git - Exercise Repository
+# Adding line for GIJ Demo
 
 Welcome! This is the sandbox repository for the [Foundations of Git](https://learn.gitkraken.com) course. Use this repository for exercise lessons, or as a sandbox for your own exploration.
 
